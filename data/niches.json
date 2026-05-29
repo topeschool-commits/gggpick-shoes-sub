@@ -1,22 +1,22 @@
 {
     "domain": "shoes.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "운동화 및 스니커즈",
+        "구두 및 로퍼",
+        "슬리퍼 및 샌들"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang shoes items."
+        "운동화 및 스니커즈": {
+            "topic": "Running shoes, sneakers, walking shoes.",
+            "role": "Footwear fashion expert."
         },
-        "수유/이유식": {
-            "topic": "shoes bottle sterilizers, shoes food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "구두 및 로퍼": {
+            "topic": "Dress shoes, loafers, high heels.",
+            "role": "Formal shoe reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "슬리퍼 및 샌들": {
+            "topic": "Sandals, slides, flip-flops, winter slippers.",
+            "role": "Casual footwear curator."
         }
     }
 }
