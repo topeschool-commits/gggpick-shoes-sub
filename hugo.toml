@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://shoes.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick shoes'
+title = 'GGG Pick 신발구두'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick shoes'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'shoes 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '운동화 및 스니커즈, 구두 및 로퍼, 슬리퍼 및 샌들 등 패셔너블한 신발/슈즈 관련 쿠팡 로켓배송 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick shoes'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick shoes"
+  sitename = "GGG Pick 신발구두"
   siteurl = "https://shoes.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
