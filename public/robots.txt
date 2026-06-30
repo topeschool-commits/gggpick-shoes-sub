@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shoes.gggpick.com/sitemap.xml
